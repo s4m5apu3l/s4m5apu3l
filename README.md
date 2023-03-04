@@ -37,7 +37,8 @@ As a frontend developer with 1 year of experience, my expertise lies in building
 <p align="left"> <a href="https://www.github.com/s4m5apu3l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/viacheslav-ignatev-781b82264/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tualukutta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/qqsix6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
-https://www.codewars.com/users/s4m5apu3l/badges/large
+<img src='https://www.codewars.com/users/s4m5apu3l/badges/large'></img>
+
 
 <b>My GitHub Stats</b>
 
