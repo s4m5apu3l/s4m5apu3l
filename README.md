@@ -1,15 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viacheslav Ignatev
 ==========================================================================================================================================
 
-I'm Frontend developer
-----------------------
-
-As a frontend developer with 2 year of experience, my expertise lies in building visually appealing and user-friendly websites and web applications. I have a strong foundation in HTML, CSS, and JavaScript, which I have used to create engaging and responsive designs. I am also experienced with the Vue.js framework, which I have utilized to develop scalable and efficient frontend applications. Additionally, I have experience working with Bitrix, a PHP-based content management system, and have developed custom themes and plugins for it.
-
-* 🌍  I'm based in Earth
+Frontend developer
+---------------------
+* 🌍  I'm based in Thailand, Bangkok
 * ✉️  You can contact me at [asperatuz@yandex.ru](mailto:asperatuz@yandex.ru)
-* 🧠  I'm learning nuxt/wordpress/tilda/vue
-* ⚡  ready to work even for food:3
 
 ### Skills
 
