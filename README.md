@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==========================================================================================================================================
-I specialize in Vue.js, and Nuxt.js, and I love building modern, responsive web applications.
+I specialize in Vue.js, Bitrix and I love building modern, responsive web applications.
 ---------------------
 * 🌍  I'm based in Danang, Vietnam
 * ✉️  You can contact me at [asperatuz@yandex.ru](mailto:asperatuz@yandex.ru) or telegram @beachislove
