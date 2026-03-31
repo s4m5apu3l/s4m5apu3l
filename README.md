@@ -75,12 +75,6 @@
 ## ◈ &nbsp;GitHub Stats
 
 <div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=s4m5apu3l&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s4m5apu3l&layout=compact)
-
-<br/><br/>
-
 <img width="65%" src="https://streak-stats.demolab.com/?user=s4m5apu3l&hide_border=true&stroke=A0F0E2&ring=A0F0E2&fire=64DFCA&background=0f172a&currStreakNum=A0F0E2&sideNums=A0F0E2&dates=475569&sideLabels=cbd5e1&currStreakLabel=A0F0E2"/>
 
 </div>
