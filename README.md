@@ -81,8 +81,10 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4m5apu3l&langs_count=6&hide_border=true&title_color=A0F0E2&text_color=cbd5e1&icon_color=A0F0E2&bg_color=0f172a&layout=compact&custom_title=Languages"/>
 
 <br/><br/>
-
+<!--
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=s4m5apu3l&hide_border=true&stroke=A0F0E2&ring=A0F0E2&fire=64DFCA&background=0f172a&currStreakNum=A0F0E2&sideNums=A0F0E2&dates=475569&sideLabels=cbd5e1&currStreakLabel=A0F0E2"/>
+-->
+<img width="65%" src="https://streak-stats.demolab.com/?user=s4m5apu3l&hide_border=true&stroke=A0F0E2&ring=A0F0E2&fire=64DFCA&background=0f172a&currStreakNum=A0F0E2&sideNums=A0F0E2&dates=475569&sideLabels=cbd5e1&currStreakLabel=A0F0E2"/>
 
 </div>
 
