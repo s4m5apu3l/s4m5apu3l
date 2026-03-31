@@ -25,7 +25,7 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/📍_Based_in-SEA_%7C_TH_%2F_VN_%2F_MY-A0F0E2?style=for-the-badge&labelColor=0f172a&color=A0F0E2&fontColor=0f172a"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🔭_Open_to-Remote_Work-A0F0E2?style=for-the-badge&labelColor=0f172a&color=A0F0E2"/>
+<!-- <img src="https://img.shields.io/badge/🔭_Open_to-Remote_Work-A0F0E2?style=for-the-badge&labelColor=0f172a&color=A0F0E2"/> -->
 &nbsp;
 <img src="https://img.shields.io/badge/💬_Telegram-@beachislove-A0F0E2?style=for-the-badge&logo=telegram&labelColor=0f172a&color=A0F0E2&logoColor=A0F0E2"/>
 
@@ -71,7 +71,7 @@
 </div>
 
 ---
-
+-->
 ## ◈ &nbsp;GitHub Stats
 
 <div align="center">
@@ -86,6 +86,7 @@
 
 </div>
 
+<!--
 ---
 
 ## ⬡ &nbsp;Socials
