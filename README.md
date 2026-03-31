@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A0F0E2&height=120&section=header&fontColor=0f172a&fontSize=0&animation=fadeIn" width="100%"/>
 
 <!-- 🔥 MANGA GIF — замени URL на свой гиф с tenor.com или giphy.com -->
-<img src="https://media.tenor.com/qJ4OBHTfxBIAAAAd/anime-manga.gif" width="180" height="180" style="border-radius:50%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjgyaXN2ZzVhMDFqZDh1Nnk4enNhNWlmaXpiaHJjajcxdndqMDB0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kJbbcZXqkeWmz8pLb5/giphy.gif" width="180" height="180" style=""/>
 
 <br/>
 
