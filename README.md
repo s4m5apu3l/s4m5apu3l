@@ -1,14 +1,20 @@
 <div align="center">
-
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A0F0E2&height=120&section=header&fontColor=0f172a&fontSize=0&animation=fadeIn" width="100%"/>
+-->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1dGFycXg3Ym5oMHZ1OHpyNG9qNWIyNHNnazQxcDRia29qMWYwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/osm7o1nCvv7pR7AyGO/giphy.gif" width="180" height="180" style=""/>
 
-<!-- 🔥 MANGA GIF — замени URL на свой гиф с tenor.com или giphy.com -->
+<!--
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjgyaXN2ZzVhMDFqZDh1Nnk4enNhNWlmaXpiaHJjajcxdndqMDB0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kJbbcZXqkeWmz8pLb5/giphy.gif" width="180" height="180" style=""/>
+-->
 
 <br/>
 
-<!-- Animated SVG name/title -->
+<!-- Animated SVG name/title 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=800&color=A0F0E2&center=true&vCenter=true&width=600&lines=Viacheslav+Ignatev;Vue.js+%2F+Nuxt+%2F+Bitrix;Building+the+web+from+SEA+%F0%9F%8C%8A" alt="Typing SVG" />
+-->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1200&color=A0F0E2&center=true&vCenter=true&width=400&lines=open+to+work;let's+build+something" alt="Typing SVG" />
+
 
 <br/>
 
@@ -28,7 +34,7 @@
 <br/>
 
 ---
-
+<!--
 ## ⬡ &nbsp;Stack
 
 <div align="center">
@@ -85,30 +91,14 @@
 ## ⬡ &nbsp;Socials
 
 <div align="center">
-
-<a href="https://github.com/s4m5apu3l">
-  <img src="https://img.shields.io/badge/GitHub-s4m5apu3l-A0F0E2?style=for-the-badge&logo=github&logoColor=A0F0E2&labelColor=0f172a&color=0f172a"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/viacheslav-ignatev-781b82264/">
-  <img src="https://img.shields.io/badge/LinkedIn-Viacheslav-A0F0E2?style=for-the-badge&logo=linkedin&logoColor=A0F0E2&labelColor=0f172a&color=0f172a"/>
-</a>
-&nbsp;
 <a href="https://t.me/beachislove">
   <img src="https://img.shields.io/badge/Telegram-@beachislove-A0F0E2?style=for-the-badge&logo=telegram&logoColor=A0F0E2&labelColor=0f172a&color=0f172a"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/tualukutta">
-  <img src="https://img.shields.io/badge/Twitter-@tualukutta-A0F0E2?style=for-the-badge&logo=x&logoColor=A0F0E2&labelColor=0f172a&color=0f172a"/>
-</a>
-&nbsp;
-<a href="https://www.twitch.tv/qqsix6">
-  <img src="https://img.shields.io/badge/Twitch-qqsix6-A0F0E2?style=for-the-badge&logo=twitch&logoColor=A0F0E2&labelColor=0f172a&color=0f172a"/>
 </a>
 
 </div>
 
 ---
+-->
 
 ## ◈ &nbsp;Codewars
 
